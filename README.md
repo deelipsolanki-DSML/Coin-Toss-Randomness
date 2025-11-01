@@ -7,3 +7,5 @@ There is dataset of two coin tosses A and B for 200 times each. Out of these two
 
 As a data scientist, your goal is determine which of the coin tosses A or B, is probably Fake / Real .
 
+cointoss_AB.csv -> Dataset file 
+project_file.ipynb -> Ipython Notebook
